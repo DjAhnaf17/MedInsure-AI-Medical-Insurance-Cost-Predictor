@@ -7,8 +7,11 @@ Tech Stack for this Project:
 # 🚀 Project Overview
 MedInsure Allows users to :
   💰 Predict medical insurance costs
+  
   ⚠️ Analyze health risk levels
+  
   📊 View analytics dashboard
+  
   💾 Store and track prediction history
 
 This Project Demonstrates the End-to-End Machine Learning Deployment with Pipeline.
