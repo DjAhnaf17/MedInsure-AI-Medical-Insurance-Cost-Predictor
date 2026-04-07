@@ -5,7 +5,9 @@ A Full Stack Machine Learning Web Application that ensures the data and predicts
 Tech Stack for this Project:
 
 # 🚀 Project Overview
+
 MedInsure Allows users to :
+
   💰 Predict medical insurance costs
   
   ⚠️ Analyze health risk levels
